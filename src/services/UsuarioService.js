@@ -77,4 +77,8 @@ class UsuarioService {
     }
 }
 
+<<<<<<< HEAD
 module.exports = new UsuarioService();
+=======
+module.exports = new UsuarioService();
+>>>>>>> 23c4337758cdc70c6c29ea89f6c584458c42688c
