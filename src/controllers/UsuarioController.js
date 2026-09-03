@@ -29,8 +29,4 @@ class UsuarioController {
     }
 }
 
-<<<<<<< HEAD
 module.exports = new UsuarioController();
-=======
-module.exports = new UsuarioController();
->>>>>>> 23c4337758cdc70c6c29ea89f6c584458c42688c
